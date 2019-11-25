@@ -94,3 +94,7 @@ test2 = Test()
 print(id(test2))
 
 
+def function():
+    pass
+
+

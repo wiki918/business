@@ -98,3 +98,8 @@ def function():
     pass
 
 
+def function():
+    print(echo)
+    pass
+
+
